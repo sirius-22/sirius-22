@@ -23,13 +23,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
 [![](https://visitcount.itsvg.in/api?id=sirius-22&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-
 ### ⚡ Interests & Hobbies
 
 *   🔭 **Tech Focus:** I love exploring **AI Trends**, **Computer Vision**, and **Software Architecture**.
