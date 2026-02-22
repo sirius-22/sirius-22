@@ -28,6 +28,15 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+---
+
+### ⚡ Interests & Hobbies
+
+*   🔭 **Tech Focus:** I love exploring **AI Trends**, **Computer Vision**, and **Software Architecture**.
+*   🎲 **Gaming:** Huge fan of **Dungeons & Dragons** and **Tabletop Games** (ask me about my latest campaign!).
+*   📚 **Culture:** I enjoy **Anime & Manga** and staying curious about new tech.
+*   🧩 **Challenge:** I actively practice **Coding Challenges** to keep my problem-solving skills sharp.
+
 ## 🌐 Connect with Me!
 
 <a href="https://www.linkedin.com/in/siriasavignano22/" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a>
