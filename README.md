@@ -20,6 +20,8 @@
 - **Tech:** Java, AI Search Algorithms, DNN, pytorch.
 - **Focus:** Implemented **Minimax with Alpha-Beta Pruning** and custom heuristics to compete in the University of Bologna AI challenge.
 
+#### 🎓 [B.Sc. Thesis](https://github.com/sirius-22/ml-intrusion-detection-ics): Researched Machine Learning strategies for protecting critical infrastructure (ICS) from cyber-threats.
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ### ⚡ Interests & Hobbies
