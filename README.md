@@ -4,6 +4,9 @@
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=flat&logo=assemblyscript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=flat&logo=vagrant&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![riscv](https://img.shields.io/badge/RISC--V-%23003262.svg?style=flat&logo=riscv&logoColor=white)
+![deepseek](https://img.shields.io/badge/DeepSeek-%23536af5.svg?style=flat&logo=deepseek&logoColor=white)
+![openai](https://img.shields.io/badge/OpenAI-%23412991.svg?style=flat&logo=openai&logoColor=white)
 
 ---
 
@@ -19,6 +22,12 @@
 *An intelligent agent for the strategic board game Tablut.*
 - **Tech:** Java, AI Search Algorithms, DNN, pytorch.
 - **Focus:** Implemented **Minimax with Alpha-Beta Pruning** and custom heuristics to compete in the University of Bologna AI challenge.
+
+#### 🎯 [LLM Inference Benchmarking on 64-Core RISC-V](https://github.com/sirius-22/llm-riscv-benchmark)
+- **Tech:**  RISC-V, PyTorch, BLIS, OpenBLAS, Python, Linux.
+- **Focus:** Performed a quantitative performance analysis of GPT-2 and DeepSeek models on a many-core RISC-V architecture.
+Optimized PyTorch inference by configuring and comparing different BLAS backends (OpenBLAS vs. BLIS) to enable CPU vectorization.
+Analyzed scaling performance across 64 cores, measuring metrics like token generation rate and inference latency to identify architectural bottlenecks.
 
 #### 🎓 [B.Sc. Thesis](https://github.com/sirius-22/ml-intrusion-detection-ics): Researched Machine Learning strategies for protecting critical infrastructure (ICS) from cyber-threats.
 
