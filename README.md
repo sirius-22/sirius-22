@@ -14,7 +14,7 @@
 
 #### 🤖 [SmartKargo](https://github.com/sirius-22/SmartKargo)
 *Distributed Actor-Based System for Autonomous Logistics.*
-- **Tech:** Kotlin, Prolog, Gradle, Docker, Raspberry Pi.
+- **Tech:** java, Prolog, Gradle, Docker, Raspberry Pi.
 - **Focus:** Designed an asynchronous system using the **Actor Model** to coordinate a "cargo warehousing and storage services" with autonomous robot (DDR).
 - **Highlights:** Implemented Clean Architecture, comprehensive unit testing, and deployed on embedded hardware.
 
