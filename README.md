@@ -10,7 +10,7 @@
 
 ---
 
-### 🔭 Featured Projects
+### ✨ Featured Projects ✨
 
 #### 🤖 [SmartKargo](https://github.com/sirius-22/SmartKargo)
 *Distributed Actor-Based System for Autonomous Logistics.*
@@ -33,7 +33,7 @@ Analyzed scaling performance across 64 cores, measuring metrics like token gener
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-### ⚡ Interests & Hobbies
+###  ✨ Interests & Hobbies ✨
 
 *   🔭 **Tech Focus:** I love exploring **AI Trends**, **Computer Vision**, and **Software Architecture**.
 *   🎲 **Gaming:** Huge fan of **Dungeons & Dragons** and **Tabletop Games** (ask me about my latest campaign!).
