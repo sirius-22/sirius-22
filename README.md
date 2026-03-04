@@ -44,6 +44,8 @@ Analyzed scaling performance across 64 cores, measuring metrics like token gener
 
 <a href="https://www.linkedin.com/in/siriasavignano22/" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a>
 
+<p align="center">
 <img src="./chibiMe.png" width="250" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
